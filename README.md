@@ -1,6 +1,5 @@
-- 👋 Hi, I’m devendran
-- 👀 I’m interested in ..full stack development.
-- 🌱 I’m currently learning . frontend and backend..
+print("i am devendran")
+<h1>i am a web developer </h1>
 if(learn==consistent){
 console.log("reach your place")
 
@@ -8,3 +7,4 @@ console.log("reach your place")
 else{
 console.log("you need to practise")
 }
+system.out.println("my learning is never ending");
